@@ -124,6 +124,9 @@
 
         % 摘要页（中）
 
+        \pagenumbering{roman}
+        \pagestyle{toc} % 目录风格页面（无页眉+罗马页码）
+
         \begin{center}
             {\zihao{3}\heiti{摘要}}
         \end{center}
@@ -149,8 +152,6 @@
         }
         
         % 目录页
-        \pagenumbering{roman}
-        \pagestyle{toc} % 目录风格页面
 
         \tableofcontents
 
