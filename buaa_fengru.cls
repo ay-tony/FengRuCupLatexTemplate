@@ -41,6 +41,9 @@
 
 \zhnumsetup{arabicsep=\,}
 
+% 参考文献格式
+\bibliographystyle{gbt7714-numerical} % 格式为 gb7714-2015 数字形式
+
 % siunitx
 % 设置物理化学单位格式
 \sisetup{
