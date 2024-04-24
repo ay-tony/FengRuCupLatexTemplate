@@ -17,3 +17,7 @@
 - `main.tex` 包含了论文的主要内容。
 - `main.pdf` 生成的论文文件。
 - `README.md` 说明文档，本文件。这个文件在论文项目中可以删除。
+
+# 字体相关
+
+模板需要系统安装字体：宋体 `SimSun`、黑体 `SimHei`、华文中宋 `STZhongsong` 和华文新魏 `STXinwei`。
